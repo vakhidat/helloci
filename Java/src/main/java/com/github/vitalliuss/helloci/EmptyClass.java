@@ -16,7 +16,7 @@ public class EmptyClass {
 	}
 
 	public static boolean newMethod() {
-		return true;
+		return false;
 	}
 
 }
