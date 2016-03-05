@@ -38,9 +38,5 @@ public class AppTest {
 		EmptyClass.emptyMethod();
 	}
 
-	@Test
-	public void testNewMethod() {
-		boolean condition = EmptyClass.newMethod();
-		assertTrue(condition);
-	}
+	
 }

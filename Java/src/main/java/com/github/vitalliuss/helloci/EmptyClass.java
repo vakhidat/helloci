@@ -15,8 +15,6 @@ public class EmptyClass {
 		// do not use it
 	}
 
-	public static boolean newMethod() {
-		return false;
-	}
+
 
 }
